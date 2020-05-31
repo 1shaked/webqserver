@@ -1,0 +1,1 @@
+{"name":"בקר","questions":[{"type":"text","content":"מה הגיל שלך","name":"מה הגיל שלך","dataType":"int","required":true,"textSize":30,"class":"","rowSize":10,"label":"22"}]}

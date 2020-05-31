@@ -1,0 +1,1 @@
+{"name":"בדיקה","questions":[{"type":"header","content":"תוכן לדוגמא בדיקה","name":"","dataType":"","required":true,"textSize":24,"class":"","rowSize":10},{"type":"check box","content":"תוכן לדוגמא","name":"שששששששששד","dataType":"text","required":true,"textSize":16,"class":"","rowSize":10,"options":[{"text":"גגג","value":"33"},{"text":"test","value":"value"}],"label":"גגגגגג"}]}
